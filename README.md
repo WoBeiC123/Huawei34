@@ -7,4 +7,4 @@
 
 ##  合入步骤指导（为不熟悉github的用户准备）https://github.com/WoBeiC123/Huawei34/wiki
 
-##  欢迎合入
+##  欢迎合入，不会用github可以发邮件到  （注意不要填入华为专属和保密信息）  huaweigotc@gmail.com
